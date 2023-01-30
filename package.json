@@ -5,7 +5,6 @@
   "description": "",
   "main": "src/server.js",
   "scripts": {
-    "build": "tsc",
     "dev": "tsx watch src/server.ts",
     "start": "pnpm build && tsx src/server.ts"
   },
